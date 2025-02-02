@@ -47,13 +47,16 @@ This MATLAB script performs the following tasks:
 
 ## **Example Results**
 ### **Laplacian Edge Detection**
-![Laplacian Example](images/laplacian_example.png)
+![Screenshot 2025-02-02 211018](https://github.com/user-attachments/assets/318da6fd-c870-4e47-bc52-2f36f69da0cc)
+
 
 ### **Unsharp Masking**
-![Unsharp Masking](images/unsharp_masking.png)
+![Screenshot 2025-02-02 211028](https://github.com/user-attachments/assets/ad83a36c-eb30-4d2b-bd71-cfd12069e4f8)
+
 
 ### **Highboost Filtering**
-![Highboost Filtering](images/highboost_filtering.png)
+![Screenshot 2025-02-02 211040](https://github.com/user-attachments/assets/ca3ee9ae-3fb2-463e-83f1-1da8e8c4d87d)
+
 
 ---
 
